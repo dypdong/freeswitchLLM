@@ -1,0 +1,6 @@
+qwen-asr
+huggingface_hub[cli]
+torch
+torchaudio
+soundfile
+librosa
