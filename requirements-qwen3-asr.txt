@@ -1,3 +1,10 @@
+qwen-asr
+huggingface_hub[cli]
+torch
+torchaudio
+soundfile
+librosa
+=======
 # Runtime dependencies for the local Qwen3-ASR demo.
 # Install in a fresh Python 3.12 environment when possible:
 #   python -m venv .venv && source .venv/bin/activate
