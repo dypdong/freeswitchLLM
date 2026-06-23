@@ -1,6 +1,7 @@
 # freeswitchLLM
 
-learn how to use freeswitch
+1、learn how to use freeswitch 
+2、use Qwen3-asr-1.7B to provide asr service for freeswitch under MRCP.
 
 ## Qwen3-ASR-1.7B 本地部署
 
