@@ -4,3 +4,10 @@ torch
 torchaudio
 soundfile
 librosa
+=======
+# Runtime dependencies for the local Qwen3-ASR demo.
+# Install in a fresh Python 3.12 environment when possible:
+#   python -m venv .venv && source .venv/bin/activate
+#   pip install -r requirements-qwen3-asr.txt
+qwen-asr>=0.1.0
+requests>=2.31.0
